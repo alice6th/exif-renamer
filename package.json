@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "exif-reader": "^1.0.3",
-    "exiftool-vendored": "^8.22.0",
+    "exiftool-vendored": "^14.3.0",
     "sharp": "^0.23.1"
   }
 }
